@@ -1,0 +1,3 @@
+﻿  Insertion_Sort.cpp
+C:\Users\Karina\Desktop\algosort\Insertion_Sort\Insertion_Sort\Insertion_Sort.cpp(29,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Insertion_Sort.vcxproj -> C:\Users\Karina\Desktop\algosort\Insertion_Sort\x64\Debug\Insertion_Sort.exe

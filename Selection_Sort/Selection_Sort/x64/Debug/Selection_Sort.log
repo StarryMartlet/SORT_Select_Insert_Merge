@@ -1,0 +1,3 @@
+﻿  Selection_Sort.cpp
+C:\Users\Karina\Desktop\algosort\Selection_Sort\Selection_Sort\Selection_Sort.cpp(32,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Selection_Sort.vcxproj -> C:\Users\Karina\Desktop\algosort\Selection_Sort\x64\Debug\Selection_Sort.exe

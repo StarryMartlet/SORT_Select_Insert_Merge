@@ -1,0 +1,3 @@
+﻿  Mega_Sort.cpp
+C:\Users\Karina\Desktop\algosort\Mega_Sort\Mega_Sort\Mega_Sort.cpp(93,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Mega_Sort.vcxproj -> C:\Users\Karina\Desktop\algosort\Mega_Sort\x64\Debug\Mega_Sort.exe
